@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c8cb6020b3334e4e94409ef525d46ebf", 
+  "language": "ind_ID", 
+  "title": "AKU BISA DUDUK DAN MERANGKAK", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "aku-bisa-duduk-dan-merangkak", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
