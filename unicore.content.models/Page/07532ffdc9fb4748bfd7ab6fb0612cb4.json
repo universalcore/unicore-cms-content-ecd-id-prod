@@ -6,12 +6,12 @@
   "primary_category": "4db2e46e5f644b50a509d48baaf252e5", 
   "created_at": "2016-10-05T17:13:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-05T17:59:37.289679+00:00", 
+  "modified_at": "2017-02-03T11:38:53.105820+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "cc5f6cc799aa417ba9f4dfc820588a36", 
   "published": null, 
-  "position": 14, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "permainan-dan-komunikasi-dengan-bayi-yang-berusia-1-6-bulan", 
   "uuid": "07532ffdc9fb4748bfd7ab6fb0612cb4"
